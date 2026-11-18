@@ -25,4 +25,4 @@ I support clinical and administrative users in a regulated healthcare environmen
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/lorenzo-cenatiempo-4915b22b0](https://www.linkedin.com/in/lorenzo-cenatiempo-4915b22b0/)
+- LinkedIn: [linkedin.com/in/lorenzo-cenatiempo](https://www.linkedin.com/in/lorenzo-cenatiempo/)
