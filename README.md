@@ -1,4 +1,4 @@
-# Hi, I'm Lorenzo 👋
+# Hi, I'm Lorenzo
 
 IT Service Desk Analyst with CompTIA Security+, building toward identity and access management (IAM) and security operations.
 
@@ -6,9 +6,9 @@ I support clinical and administrative users in a regulated healthcare environmen
 
 ## What I'm working on
 
-- 🔐 **Identity Threat Detection Lab**: Microsoft Entra ID, Conditional Access and Microsoft Sentinel detections written in KQL *(in progress)*
-- 📚 **Cena Training Hub**: a free study program for six entry-level IT and security certifications
-- ☁️ Studying for Microsoft Azure Fundamentals (AZ-900)
+- **Identity Threat Detection Lab**: Microsoft Entra ID, Conditional Access and Microsoft Sentinel detections written in KQL *(in progress)*
+-  **Cena Training Hub**: a free study program for six entry-level IT and security certifications
+-  Studying for Microsoft Azure Fundamentals (AZ-900)
 
 ## Skills and tools
 
