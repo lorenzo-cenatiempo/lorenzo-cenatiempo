@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lorenzo 👋
 
-<!--
-**lorenzo-cenatiempo/lorenzo-cenatiempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Service Desk Analyst with CompTIA Security+, building toward identity and access management (IAM) and security operations.
 
-Here are some ideas to get you started:
+I support clinical and administrative users in a regulated healthcare environment, where my day-to-day includes identity verification, MFA and access requests, and suspicious-email triage. Before IT, I spent 10 years in restaurants, which is where I learned to stay calm when systems go down mid-rush.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🔐 **Identity Threat Detection Lab**: Microsoft Entra ID, Conditional Access and Microsoft Sentinel detections written in KQL *(in progress)*
+- 📚 **Cena Training Hub**: a free study program for six entry-level IT and security certifications
+- ☁️ Studying for Microsoft Azure Fundamentals (AZ-900)
+
+## Skills and tools
+
+- **Identity and access:** Microsoft Entra ID, Active Directory, MFA, Microsoft 365 administration
+- **Security:** incident escalation, phishing triage, HIPAA-aligned procedures, Wireshark, Kali Linux
+- **Service desk:** ServiceNow, ConnectWise Manage, ScreenConnect
+- **Scripting and query:** Python, SQL, KQL *(learning)*
+
+## Certifications
+
+- CompTIA Security+
+- Google Cybersecurity Certificate
+- Cybersecurity Certificate, University of Connecticut
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/lorenzo-cenatiempo-4915b22b0](https://www.linkedin.com/in/lorenzo-cenatiempo-4915b22b0/)
